@@ -33,3 +33,19 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# locks
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
